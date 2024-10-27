@@ -1,7 +1,7 @@
-# OCI Cloud Native & DevOps FastTrack
-In this repository you will find all the material for the development of the Fast Track Labs!
+# OCI Cloud Native & DevOps Workshop
+In this repository you will find all the material for the development of the OCI Cloud Native Labs!
 
-Labs for the Fast Track:
+Labs for the Workshop:
 
 - [Lab. #1 - Resource Provisioning](/Lab.%20%231%20-%20Resource%20Provisioning)
 - [Lab. #2 - Developing Cloud Native Applications - Parte 1](Lab.%20%232%20-%20Developing%20Cloud%20Native%20Applications%20-%20Parte%201)
